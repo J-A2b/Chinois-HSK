@@ -1,0 +1,2223 @@
+{
+    "syllabus": [
+        {
+            "simplifie": "阿姨",
+            "traditionnel": "阿姨",
+            "pinyin": "āyí",
+            "categorie": "n.",
+            "traduction": "tante (soeur cadette de la mère)"
+        },
+        {
+            "simplifie": "啊",
+            "traditionnel": "啊",
+            "pinyin": "a",
+            "categorie": "interj. / part. fin.",
+            "traduction": "Ah ! ; (indique une exclamation)"
+        },
+        {
+            "simplifie": "矮",
+            "traditionnel": "矮",
+            "pinyin": "ǎi",
+            "categorie": "adj.",
+            "traduction": "de petite taille, bas"
+        },
+        {
+            "simplifie": "爱好",
+            "traditionnel": "愛好",
+            "pinyin": "àihào",
+            "categorie": "n. / v.",
+            "traduction": "hobby, intérêt 个 ; aimer"
+        },
+        {
+            "simplifie": "安静",
+            "traditionnel": "安靜",
+            "pinyin": "ānjìng",
+            "categorie": "adj.",
+            "traduction": "tranquille, calme, calmement"
+        },
+        {
+            "simplifie": "班",
+            "traditionnel": "班",
+            "pinyin": "bān",
+            "categorie": "n.",
+            "traduction": "classe (d’école) 个"
+        },
+        {
+            "simplifie": "搬",
+            "traditionnel": "搬",
+            "pinyin": "bān",
+            "categorie": "v.",
+            "traduction": "déplacer, déménager"
+        },
+        {
+            "simplifie": "办法",
+            "traditionnel": "辦法",
+            "pinyin": "bànfǎ",
+            "categorie": "n.",
+            "traduction": "moyen, solution 个"
+        },
+        {
+            "simplifie": "办公室",
+            "traditionnel": "辦公室",
+            "pinyin": "bàngōngshì",
+            "categorie": "n.",
+            "traduction": "bureau 个"
+        },
+        {
+            "simplifie": "半",
+            "traditionnel": "半",
+            "pinyin": "bàn",
+            "categorie": "num.",
+            "traduction": "moitié, demi"
+        },
+        {
+            "simplifie": "包",
+            "traditionnel": "包",
+            "pinyin": "bāo",
+            "categorie": "v. / n.",
+            "traduction": "emballer ; sac ; un sac de"
+        },
+        {
+            "simplifie": "饱",
+            "traditionnel": "飽",
+            "pinyin": "bǎo",
+            "categorie": "adj.",
+            "traduction": "rassasié"
+        },
+        {
+            "simplifie": "北方",
+            "traditionnel": "北方",
+            "pinyin": "běifāng",
+            "categorie": "l.",
+            "traduction": "(le/au) nord, Nord"
+        },
+        {
+            "simplifie": "鼻子",
+            "traditionnel": "鼻子",
+            "pinyin": "bízi",
+            "categorie": "n.",
+            "traduction": "nez 个"
+        },
+        {
+            "simplifie": "比较",
+            "traditionnel": "比較",
+            "pinyin": "bǐjiào",
+            "categorie": "v. / adv.",
+            "traduction": "comparer ; relativement"
+        },
+        {
+            "simplifie": "比赛",
+            "traditionnel": "比賽",
+            "pinyin": "bǐsài",
+            "categorie": "v. / n.",
+            "traduction": "concourir, compétition 个, 次, 场"
+        },
+        {
+            "simplifie": "笔记本",
+            "traditionnel": "筆記本",
+            "pinyin": "bǐjìběn",
+            "categorie": "n.",
+            "traduction": "cahier de notes 个, 本"
+        },
+        {
+            "simplifie": "必须",
+            "traditionnel": "必須",
+            "pinyin": "bìxū",
+            "categorie": "adv.",
+            "traduction": "nécessairement, absolument"
+        },
+        {
+            "simplifie": "变化",
+            "traditionnel": "變化",
+            "pinyin": "biànhuà",
+            "categorie": "n.",
+            "traduction": "changement 个"
+        },
+        {
+            "simplifie": "别人",
+            "traditionnel": "別人",
+            "pinyin": "biérén",
+            "categorie": "n.",
+            "traduction": "autrui, d’autres (personnes)"
+        },
+        {
+            "simplifie": "冰箱",
+            "traditionnel": "冰箱",
+            "pinyin": "bīngxiāng",
+            "categorie": "n.",
+            "traduction": "réfrigérateur 个"
+        },
+        {
+            "simplifie": "菜单",
+            "traditionnel": "菜單",
+            "pinyin": "càidān",
+            "categorie": "n.",
+            "traduction": "menu 个, 本"
+        },
+        {
+            "simplifie": "参加",
+            "traditionnel": "參加",
+            "pinyin": "cānjiā",
+            "categorie": "v.",
+            "traduction": "participer à"
+        },
+        {
+            "simplifie": "草",
+            "traditionnel": "草",
+            "pinyin": "cǎo",
+            "categorie": "n.",
+            "traduction": "herbe 根"
+        },
+        {
+            "simplifie": "层",
+            "traditionnel": "層",
+            "pinyin": "céng",
+            "categorie": "n.",
+            "traduction": "étage ; une couche de"
+        },
+        {
+            "simplifie": "差",
+            "traditionnel": "差",
+            "pinyin": "chà",
+            "categorie": "adj. / v.",
+            "traduction": "inférieur, imparfait ; différer, s’écarter"
+        },
+        {
+            "simplifie": "尝",
+            "traditionnel": "嘗",
+            "pinyin": "cháng",
+            "categorie": "v.",
+            "traduction": "goûter"
+        },
+        {
+            "simplifie": "超市",
+            "traditionnel": "超市",
+            "pinyin": "chāoshì",
+            "categorie": "n.",
+            "traduction": "supermarché 个, 家"
+        },
+        {
+            "simplifie": "衬衫",
+            "traditionnel": "襯衫",
+            "pinyin": "chènshān",
+            "categorie": "n.",
+            "traduction": "chemise 件"
+        },
+        {
+            "simplifie": "成绩",
+            "traditionnel": "成績",
+            "pinyin": "chéngjì",
+            "categorie": "n.",
+            "traduction": "succès, résultat, note (scolaire) 个"
+        },
+        {
+            "simplifie": "城市",
+            "traditionnel": "城市",
+            "pinyin": "chéngshì",
+            "categorie": "n.",
+            "traduction": "ville 个"
+        },
+        {
+            "simplifie": "迟到",
+            "traditionnel": "遲到",
+            "pinyin": "chídào",
+            "categorie": "v.",
+            "traduction": "être en retard"
+        },
+        {
+            "simplifie": "船",
+            "traditionnel": "船",
+            "pinyin": "chuán",
+            "categorie": "n.",
+            "traduction": "bateau"
+        },
+        {
+            "simplifie": "春",
+            "traditionnel": "春",
+            "pinyin": "chūn",
+            "categorie": "n.",
+            "traduction": "printemps"
+        },
+        {
+            "simplifie": "词典",
+            "traditionnel": "詞典",
+            "pinyin": "cídiǎn",
+            "categorie": "n.",
+            "traduction": "dictionnaire (des mots) 本"
+        },
+        {
+            "simplifie": "聪明",
+            "traditionnel": "聰明",
+            "pinyin": "cōngmíng",
+            "categorie": "adj.",
+            "traduction": "intelligent"
+        },
+        {
+            "simplifie": "打扫",
+            "traditionnel": "打掃",
+            "pinyin": "dǎsǎo",
+            "categorie": "v.",
+            "traduction": "balayer, nettoyer"
+        },
+        {
+            "simplifie": "打算",
+            "traditionnel": "打算",
+            "pinyin": "dǎsuàn",
+            "categorie": "v. / n.",
+            "traduction": "avoir l’intention de, projeter,"
+        },
+        {
+            "simplifie": "带",
+            "traditionnel": "帶",
+            "pinyin": "dài",
+            "categorie": "v.",
+            "traduction": "emmener ; guider ; s’occuper de"
+        },
+        {
+            "simplifie": "担心",
+            "traditionnel": "擔心",
+            "pinyin": "dānxīn",
+            "categorie": "v.",
+            "traduction": "s’inquiéter, se faire du souci"
+        },
+        {
+            "simplifie": "蛋糕",
+            "traditionnel": "蛋糕",
+            "pinyin": "dàngāo",
+            "categorie": "n.",
+            "traduction": "gâteau 个, 块"
+        },
+        {
+            "simplifie": "当然",
+            "traditionnel": "當然",
+            "pinyin": "dāngrán",
+            "categorie": "adv.",
+            "traduction": "bien sûr, évidemment"
+        },
+        {
+            "simplifie": "地",
+            "traditionnel": "地",
+            "pinyin": "de",
+            "categorie": "sub.",
+            "traduction": "(entre un adjectif exerçant une fonction adverbiale et le verbe)"
+        },
+        {
+            "simplifie": "灯",
+            "traditionnel": "燈",
+            "pinyin": "dēng",
+            "categorie": "n.",
+            "traduction": "lampe, lumière 盏"
+        },
+        {
+            "simplifie": "地方",
+            "traditionnel": "地方",
+            "pinyin": "dìfang",
+            "categorie": "n.",
+            "traduction": "endroit, lieu 个"
+        },
+        {
+            "simplifie": "地铁",
+            "traditionnel": "地鐵",
+            "pinyin": "dìtiě",
+            "categorie": "n.",
+            "traduction": "métro"
+        },
+        {
+            "simplifie": "地图",
+            "traditionnel": "地圖",
+            "pinyin": "dìtú",
+            "categorie": "n.",
+            "traduction": "carte (géographique) 张"
+        },
+        {
+            "simplifie": "电梯",
+            "traditionnel": "電梯",
+            "pinyin": "diàntī",
+            "categorie": "n.",
+            "traduction": "ascenseur 个"
+        },
+        {
+            "simplifie": "东",
+            "traditionnel": "東",
+            "pinyin": "dōng",
+            "categorie": "loc.",
+            "traduction": "est (direction)"
+        },
+        {
+            "simplifie": "冬",
+            "traditionnel": "冬",
+            "pinyin": "dōng",
+            "categorie": "n.",
+            "traduction": "hiver"
+        },
+        {
+            "simplifie": "动物",
+            "traditionnel": "動物",
+            "pinyin": "dòngwù",
+            "categorie": "n.",
+            "traduction": "animal 个"
+        },
+        {
+            "simplifie": "短",
+            "traditionnel": "短",
+            "pinyin": "duǎn",
+            "categorie": "adj.",
+            "traduction": "court"
+        },
+        {
+            "simplifie": "段",
+            "traditionnel": "段",
+            "pinyin": "duàn",
+            "categorie": "n.",
+            "traduction": "section, paragraphe ; un paragraphe de, une certaine période de (temps)"
+        },
+        {
+            "simplifie": "锻炼",
+            "traditionnel": "鍛煉",
+            "pinyin": "duànliàn",
+            "categorie": "v.",
+            "traduction": "s’entraîner, s’exercer (pour être en bonne santé)"
+        },
+        {
+            "simplifie": "多么",
+            "traditionnel": "多麼",
+            "pinyin": "duōme",
+            "categorie": "adv.",
+            "traduction": "combien… ! comme… !"
+        },
+        {
+            "simplifie": "饿",
+            "traditionnel": "餓",
+            "pinyin": "è",
+            "categorie": "adj.",
+            "traduction": "avoir faim"
+        },
+        {
+            "simplifie": "耳朵",
+            "traditionnel": "耳朵",
+            "pinyin": "ěrduo",
+            "categorie": "n.",
+            "traduction": "oreille 只"
+        },
+        {
+            "simplifie": "发",
+            "traditionnel": "發",
+            "pinyin": "fā",
+            "categorie": "v.",
+            "traduction": "envoyer (courrier électronique, SMS, texto), émettre"
+        },
+        {
+            "simplifie": "发现",
+            "traditionnel": "發現",
+            "pinyin": "fāxiàn",
+            "categorie": "v. / n.",
+            "traduction": "découvrir, remarquer, découverte"
+        },
+        {
+            "simplifie": "方便",
+            "traditionnel": "方便",
+            "pinyin": "fāngbiàn",
+            "categorie": "adj.",
+            "traduction": "commode, pratique"
+        },
+        {
+            "simplifie": "放",
+            "traditionnel": "放",
+            "pinyin": "fàng",
+            "categorie": "v.",
+            "traduction": "mettre, placer"
+        },
+        {
+            "simplifie": "分",
+            "traditionnel": "分",
+            "pinyin": "fēn",
+            "categorie": "n. /",
+            "traduction": "centime ; minute ; diviser"
+        },
+        {
+            "simplifie": "附近",
+            "traditionnel": "附近",
+            "pinyin": "fùjìn",
+            "categorie": "l.",
+            "traduction": "environs, alentours"
+        },
+        {
+            "simplifie": "复习",
+            "traditionnel": "複習",
+            "pinyin": "fùxí",
+            "categorie": "v.",
+            "traduction": "réviser, répéter"
+        },
+        {
+            "simplifie": "干净",
+            "traditionnel": "乾凈",
+            "pinyin": "gānjìng",
+            "categorie": "adj.",
+            "traduction": "propre"
+        },
+        {
+            "simplifie": "感冒",
+            "traditionnel": "感冒",
+            "pinyin": "gǎnmào",
+            "categorie": "v.",
+            "traduction": "prendre froid, être enrhumé"
+        },
+        {
+            "simplifie": "刚才",
+            "traditionnel": "剛才",
+            "pinyin": "gāngcái",
+            "categorie": "n.",
+            "traduction": "à l’instant, il y a peu de temps"
+        },
+        {
+            "simplifie": "个子",
+            "traditionnel": "個子",
+            "pinyin": "gèzi",
+            "categorie": "n.",
+            "traduction": "taille (d’une personne)"
+        },
+        {
+            "simplifie": "更",
+            "traditionnel": "更",
+            "pinyin": "gèng",
+            "categorie": "adv.",
+            "traduction": "plus"
+        },
+        {
+            "simplifie": "公斤",
+            "traditionnel": "公斤",
+            "pinyin": "gōngjīn",
+            "categorie": "n.",
+            "traduction": "kilogramme"
+        },
+        {
+            "simplifie": "公园",
+            "traditionnel": "公園",
+            "pinyin": "gōngyuán",
+            "categorie": "n.",
+            "traduction": "parc, jardin public 个"
+        },
+        {
+            "simplifie": "故事",
+            "traditionnel": "故事",
+            "pinyin": "gùshi",
+            "categorie": "n.",
+            "traduction": "histoire, conte 个"
+        },
+        {
+            "simplifie": "关",
+            "traditionnel": "關",
+            "pinyin": "guān",
+            "categorie": "v.",
+            "traduction": "fermer, éteindre"
+        },
+        {
+            "simplifie": "关系",
+            "traditionnel": "關係",
+            "pinyin": "guānxì",
+            "categorie": "n.",
+            "traduction": "rapport, relation ; relations"
+        },
+        {
+            "simplifie": "关心",
+            "traditionnel": "關心",
+            "pinyin": "guānxīn",
+            "categorie": "v.",
+            "traduction": "s’intéresser à, se soucier de"
+        },
+        {
+            "simplifie": "国家",
+            "traditionnel": "國家",
+            "pinyin": "guójiā",
+            "categorie": "n.",
+            "traduction": "pays, État, nation 个"
+        },
+        {
+            "simplifie": "过",
+            "traditionnel": "過",
+            "pinyin": "guò",
+            "categorie": "v.",
+            "traduction": "traverser, passer ; fêter ; dépasser"
+        },
+        {
+            "simplifie": "过去",
+            "traditionnel": "過去",
+            "pinyin": "guòqù",
+            "categorie": "n.",
+            "traduction": "passé, autrefois"
+        },
+        {
+            "simplifie": "还是",
+            "traditionnel": "還是",
+            "pinyin": "háishi",
+            "categorie": "conj. / adv.",
+            "traduction": "ou (dans une phrase interrogative) ; encore, toujours"
+        },
+        {
+            "simplifie": "害怕",
+            "traditionnel": "害怕",
+            "pinyin": "hàipà",
+            "categorie": "v.",
+            "traduction": "avoir peur de"
+        },
+        {
+            "simplifie": "河",
+            "traditionnel": "河",
+            "pinyin": "hé",
+            "categorie": "n.",
+            "traduction": "rivière, fleuve 条"
+        },
+        {
+            "simplifie": "黑板",
+            "traditionnel": "黑板",
+            "pinyin": "hēibǎn",
+            "categorie": "n.",
+            "traduction": "tableau noir 个"
+        },
+        {
+            "simplifie": "后来",
+            "traditionnel": "後來",
+            "pinyin": "hòulái",
+            "categorie": "n.",
+            "traduction": "par la suite"
+        },
+        {
+            "simplifie": "护照",
+            "traditionnel": "護照",
+            "pinyin": "hùzhào",
+            "categorie": "n.",
+            "traduction": "passeport 个"
+        },
+        {
+            "simplifie": "花",
+            "traditionnel": "花",
+            "pinyin": "huā",
+            "categorie": "v.",
+            "traduction": "dépenser (l’argent, l’énergie, le temps, etc.)"
+        },
+        {
+            "simplifie": "花",
+            "traditionnel": "花",
+            "pinyin": "huā",
+            "categorie": "n.",
+            "traduction": "fleur 朵,支"
+        },
+        {
+            "simplifie": "画",
+            "traditionnel": "畫",
+            "pinyin": "huà",
+            "categorie": "v. / n.",
+            "traduction": "dessiner, peindre, dessin, peinture"
+        },
+        {
+            "simplifie": "坏",
+            "traditionnel": "壞",
+            "pinyin": "huài",
+            "categorie": "adj.",
+            "traduction": "mauvais ; s’abîmer, être en panne"
+        },
+        {
+            "simplifie": "欢迎",
+            "traditionnel": "歡迎",
+            "pinyin": "huānyíng",
+            "categorie": "v.",
+            "traduction": "souhaiter la bienvenue"
+        },
+        {
+            "simplifie": "还",
+            "traditionnel": "還",
+            "pinyin": "huán",
+            "categorie": "v.",
+            "traduction": "rendre"
+        },
+        {
+            "simplifie": "环境",
+            "traditionnel": "環境",
+            "pinyin": "huánjìng",
+            "categorie": "n.",
+            "traduction": "environnement 个"
+        },
+        {
+            "simplifie": "换",
+            "traditionnel": "換",
+            "pinyin": "huàn",
+            "categorie": "v.",
+            "traduction": "changer, échanger"
+        },
+        {
+            "simplifie": "回答",
+            "traditionnel": "回答",
+            "pinyin": "huídá",
+            "categorie": "v. / n.",
+            "traduction": "répondre, réponse 个"
+        },
+        {
+            "simplifie": "会议",
+            "traditionnel": "會議",
+            "pinyin": "huìyì",
+            "categorie": "n.",
+            "traduction": "réunion 个, 次"
+        },
+        {
+            "simplifie": "或者",
+            "traditionnel": "或者",
+            "pinyin": "huòzhě",
+            "categorie": "conj.",
+            "traduction": "ou bien (dans une phrase affirmative)"
+        },
+        {
+            "simplifie": "几乎",
+            "traditionnel": "幾乎",
+            "pinyin": "jīhū",
+            "categorie": "adv.",
+            "traduction": "presque"
+        },
+        {
+            "simplifie": "机会",
+            "traditionnel": "機會",
+            "pinyin": "jīhuì",
+            "categorie": "n.",
+            "traduction": "occasion, chance, opportunité 个"
+        },
+        {
+            "simplifie": "极",
+            "traditionnel": "極",
+            "pinyin": "jí",
+            "categorie": "adv.",
+            "traduction": "extrêmement"
+        },
+        {
+            "simplifie": "记得",
+            "traditionnel": "記得",
+            "pinyin": "jìde",
+            "categorie": "v.",
+            "traduction": "se souvenir de, se rappeler"
+        },
+        {
+            "simplifie": "季节",
+            "traditionnel": "季節",
+            "pinyin": "jìjié",
+            "categorie": "n.",
+            "traduction": "saison 个"
+        },
+        {
+            "simplifie": "检查",
+            "traditionnel": "檢查",
+            "pinyin": "jiǎnchá",
+            "categorie": "v. / n.",
+            "traduction": "examiner, vérifier, vérification 个,"
+        },
+        {
+            "simplifie": "简单",
+            "traditionnel": "簡單",
+            "pinyin": "jiǎndān",
+            "categorie": "adj.",
+            "traduction": "simple, peu compliqué, simplement"
+        },
+        {
+            "simplifie": "健康",
+            "traditionnel": "健康",
+            "pinyin": "jiànkāng",
+            "categorie": "adj.",
+            "traduction": "bien portant, sain"
+        },
+        {
+            "simplifie": "讲",
+            "traditionnel": "講",
+            "pinyin": "jiǎng",
+            "categorie": "v.",
+            "traduction": "raconter, parler, expliquer"
+        },
+        {
+            "simplifie": "教",
+            "traditionnel": "教",
+            "pinyin": "jiāo",
+            "categorie": "v.",
+            "traduction": "enseigner"
+        },
+        {
+            "simplifie": "角",
+            "traditionnel": "角",
+            "pinyin": "jiǎo",
+            "categorie": "n.",
+            "traduction": "jiao (1/10 de yuan = 10 centimes) ; coin ; corne"
+        },
+        {
+            "simplifie": "脚",
+            "traditionnel": "腳",
+            "pinyin": "jiǎo",
+            "categorie": "n.",
+            "traduction": "pied 只"
+        },
+        {
+            "simplifie": "接",
+            "traditionnel": "接",
+            "pinyin": "jiē",
+            "categorie": "v.",
+            "traduction": "chercher (qqn) ; répondre (au téléphone)"
+        },
+        {
+            "simplifie": "街道",
+            "traditionnel": "街道",
+            "pinyin": "jiēdào",
+            "categorie": "n.",
+            "traduction": "rue 条"
+        },
+        {
+            "simplifie": "节目",
+            "traditionnel": "節目",
+            "pinyin": "jiémù",
+            "categorie": "n.",
+            "traduction": "programme (de spectacle), émission 个"
+        },
+        {
+            "simplifie": "节日",
+            "traditionnel": "節日",
+            "pinyin": "jiérì",
+            "categorie": "n.",
+            "traduction": "fête, jour de fête"
+        },
+        {
+            "simplifie": "结束",
+            "traditionnel": "結束",
+            "pinyin": "jiéshù",
+            "categorie": "v.",
+            "traduction": "finir, terminer"
+        },
+        {
+            "simplifie": "解决",
+            "traditionnel": "解決",
+            "pinyin": "jiějué",
+            "categorie": "v.",
+            "traduction": "résoudre (un problème)"
+        },
+        {
+            "simplifie": "借",
+            "traditionnel": "借",
+            "pinyin": "jiè",
+            "categorie": "v.",
+            "traduction": "prêter, emprunter"
+        },
+        {
+            "simplifie": "经常",
+            "traditionnel": "經常",
+            "pinyin": "jīngcháng",
+            "categorie": "adj. non",
+            "traduction": "fréquent, souvent"
+        },
+        {
+            "simplifie": "经过",
+            "traditionnel": "經過",
+            "pinyin": "jīngguò",
+            "categorie": "v. /",
+            "traduction": "passer par, traverser ; après avoir (fait)"
+        },
+        {
+            "simplifie": "经理",
+            "traditionnel": "經理",
+            "pinyin": "jīnglǐ",
+            "categorie": "n.",
+            "traduction": "directeur (d'une entreprise) 个"
+        },
+        {
+            "simplifie": "久",
+            "traditionnel": "久",
+            "pinyin": "jiǔ",
+            "categorie": "adj.",
+            "traduction": "longtemps"
+        },
+        {
+            "simplifie": "旧",
+            "traditionnel": "舊",
+            "pinyin": "jiù",
+            "categorie": "adj.",
+            "traduction": "vieux, usé"
+        },
+        {
+            "simplifie": "句子",
+            "traditionnel": "句子",
+            "pinyin": "jùzi",
+            "categorie": "n.",
+            "traduction": "phrase 个"
+        },
+        {
+            "simplifie": "决定",
+            "traditionnel": "決定",
+            "pinyin": "juédìng",
+            "categorie": "v. / n.",
+            "traduction": "décider, décision 个"
+        },
+        {
+            "simplifie": "渴",
+            "traditionnel": "渴",
+            "pinyin": "kě",
+            "categorie": "adj.",
+            "traduction": "avoir soif"
+        },
+        {
+            "simplifie": "刻",
+            "traditionnel": "刻",
+            "pinyin": "kè",
+            "categorie": "n.",
+            "traduction": "quart d’heure"
+        },
+        {
+            "simplifie": "客人",
+            "traditionnel": "客人",
+            "pinyin": "kèrén",
+            "categorie": "n.",
+            "traduction": "invité, hôte"
+        },
+        {
+            "simplifie": "空调",
+            "traditionnel": "空調",
+            "pinyin": "kōngtiáo",
+            "categorie": "n.",
+            "traduction": "air conditionné"
+        },
+        {
+            "simplifie": "口",
+            "traditionnel": "口",
+            "pinyin": "kǒu",
+            "categorie": "n. /",
+            "traduction": "bouche ; (uniquement dans le contexte où on pose la question ou y répond 你家几口人？我家四口人。)"
+        },
+        {
+            "simplifie": "哭",
+            "traditionnel": "哭",
+            "pinyin": "kū",
+            "categorie": "v.",
+            "traduction": "pleurer"
+        },
+        {
+            "simplifie": "裤子",
+            "traditionnel": "褲子",
+            "pinyin": "kùzi",
+            "categorie": "n.",
+            "traduction": "pantalon 条"
+        },
+        {
+            "simplifie": "筷子",
+            "traditionnel": "筷子",
+            "pinyin": "kuàizi",
+            "categorie": "n.",
+            "traduction": "baguettes 双"
+        },
+        {
+            "simplifie": "蓝",
+            "traditionnel": "藍",
+            "pinyin": "lán",
+            "categorie": "adj.",
+            "traduction": "bleu"
+        },
+        {
+            "simplifie": "老",
+            "traditionnel": "老",
+            "pinyin": "lǎo",
+            "categorie": "adj.",
+            "traduction": "vieux, ancien ; (préfixe)"
+        },
+        {
+            "simplifie": "离开",
+            "traditionnel": "離開",
+            "pinyin": "líkāi",
+            "categorie": "v.",
+            "traduction": "quitter"
+        },
+        {
+            "simplifie": "礼物",
+            "traditionnel": "禮物",
+            "pinyin": "lǐwù",
+            "categorie": "n.",
+            "traduction": "cadeau, présent 个"
+        },
+        {
+            "simplifie": "历史",
+            "traditionnel": "歷史",
+            "pinyin": "lìshǐ",
+            "categorie": "n.",
+            "traduction": "histoire (faits historiques) 个"
+        },
+        {
+            "simplifie": "脸",
+            "traditionnel": "臉",
+            "pinyin": "liǎn",
+            "categorie": "n.",
+            "traduction": "visage, face 张"
+        },
+        {
+            "simplifie": "练习",
+            "traditionnel": "練習",
+            "pinyin": "liànxí",
+            "categorie": "v. / n.",
+            "traduction": "exercer, pratiquer, exercice 个"
+        },
+        {
+            "simplifie": "了解",
+            "traditionnel": "了解",
+            "pinyin": "liǎojiě",
+            "categorie": "v. / n.",
+            "traduction": "comprendre, bien connaître, connaissance"
+        },
+        {
+            "simplifie": "邻居",
+            "traditionnel": "鄰居",
+            "pinyin": "línjū",
+            "categorie": "n.",
+            "traduction": "voisin 个"
+        },
+        {
+            "simplifie": "楼",
+            "traditionnel": "樓",
+            "pinyin": "lóu",
+            "categorie": "n.",
+            "traduction": "maison à étage(s), étage 庄, 栋, 层"
+        },
+        {
+            "simplifie": "绿",
+            "traditionnel": "綠",
+            "pinyin": "lǜ",
+            "categorie": "adj.",
+            "traduction": "vert"
+        },
+        {
+            "simplifie": "马",
+            "traditionnel": "馬",
+            "pinyin": "mǎ",
+            "categorie": "n.",
+            "traduction": "cheval 匹"
+        },
+        {
+            "simplifie": "马上",
+            "traditionnel": "馬上",
+            "pinyin": "mǎshàng",
+            "categorie": "adv.",
+            "traduction": "immédiatement, sur-le-champ"
+        },
+        {
+            "simplifie": "满意",
+            "traditionnel": "滿意",
+            "pinyin": "mǎnyì",
+            "categorie": "adj.",
+            "traduction": "satisfait, content, avec satisfaction"
+        },
+        {
+            "simplifie": "帽子",
+            "traditionnel": "帽子",
+            "pinyin": "màozi",
+            "categorie": "n.",
+            "traduction": "chapeau 顶"
+        },
+        {
+            "simplifie": "米",
+            "traditionnel": "米",
+            "pinyin": "mǐ",
+            "categorie": "n.",
+            "traduction": "riz"
+        },
+        {
+            "simplifie": "面包",
+            "traditionnel": "麵包",
+            "pinyin": "miànbāo",
+            "categorie": "n.",
+            "traduction": "pain 个, 条, 块, 片"
+        },
+        {
+            "simplifie": "明白",
+            "traditionnel": "明白",
+            "pinyin": "míngbai",
+            "categorie": "v.",
+            "traduction": "comprendre ; clair"
+        },
+        {
+            "simplifie": "拿",
+            "traditionnel": "拿",
+            "pinyin": "ná",
+            "categorie": "v.",
+            "traduction": "prendre, tenir"
+        },
+        {
+            "simplifie": "奶奶",
+            "traditionnel": "奶奶",
+            "pinyin": "nǎinai",
+            "categorie": "n.",
+            "traduction": "grand-mère (paternelle) 个"
+        },
+        {
+            "simplifie": "南",
+            "traditionnel": "南",
+            "pinyin": "nán",
+            "categorie": "loc.",
+            "traduction": "sud"
+        },
+        {
+            "simplifie": "难",
+            "traditionnel": "難",
+            "pinyin": "nán",
+            "categorie": "adj.",
+            "traduction": "difficile"
+        },
+        {
+            "simplifie": "难过",
+            "traditionnel": "難過",
+            "pinyin": "nánguò",
+            "categorie": "adj.",
+            "traduction": "triste, avec tristesse ; difficile à passer (temps, jour)"
+        },
+        {
+            "simplifie": "年级",
+            "traditionnel": "年級",
+            "pinyin": "niánjí",
+            "categorie": "n.",
+            "traduction": "année (degré scolaire), classe 个"
+        },
+        {
+            "simplifie": "年轻",
+            "traditionnel": "年輕",
+            "pinyin": "niánqīng",
+            "categorie": "adj.",
+            "traduction": "jeune"
+        },
+        {
+            "simplifie": "鸟",
+            "traditionnel": "鳥",
+            "pinyin": "niǎo",
+            "categorie": "n.",
+            "traduction": "oiseau 只"
+        },
+        {
+            "simplifie": "努力",
+            "traditionnel": "努力",
+            "pinyin": "nǔlì",
+            "categorie": "adj.",
+            "traduction": "faire des efforts, consciencieusement"
+        },
+        {
+            "simplifie": "盘子",
+            "traditionnel": "盤子",
+            "pinyin": "pánzi",
+            "categorie": "n.",
+            "traduction": "assiette 个"
+        },
+        {
+            "simplifie": "胖",
+            "traditionnel": "胖",
+            "pinyin": "pàng",
+            "categorie": "adj.",
+            "traduction": "gros, corpulent"
+        },
+        {
+            "simplifie": "皮鞋",
+            "traditionnel": "皮鞋",
+            "pinyin": "píxié",
+            "categorie": "n.",
+            "traduction": "chaussure en cuir 只, 双"
+        },
+        {
+            "simplifie": "啤酒",
+            "traditionnel": "啤酒",
+            "pinyin": "píjiǔ",
+            "categorie": "n.",
+            "traduction": "bière"
+        },
+        {
+            "simplifie": "瓶子",
+            "traditionnel": "瓶子",
+            "pinyin": "píngzi",
+            "categorie": "n.",
+            "traduction": "bouteille 个"
+        },
+        {
+            "simplifie": "其实",
+            "traditionnel": "其實",
+            "pinyin": "qíshí",
+            "categorie": "adv.",
+            "traduction": "en fait, en réalité"
+        },
+        {
+            "simplifie": "其他",
+            "traditionnel": "其他",
+            "pinyin": "qítā",
+            "categorie": "pron.",
+            "traduction": "autres, le reste"
+        },
+        {
+            "simplifie": "奇怪",
+            "traditionnel": "奇怪",
+            "pinyin": "qíguài",
+            "categorie": "adj.",
+            "traduction": "bizarre"
+        },
+        {
+            "simplifie": "骑",
+            "traditionnel": "騎",
+            "pinyin": "qí",
+            "categorie": "v.",
+            "traduction": "monter (à cheval, à vélo, à moto)"
+        },
+        {
+            "simplifie": "起飞",
+            "traditionnel": "起飛",
+            "pinyin": "qǐfēi",
+            "categorie": "v.",
+            "traduction": "décoller"
+        },
+        {
+            "simplifie": "起来",
+            "traditionnel": "起來",
+            "pinyin": "qǐlái",
+            "categorie": "v.",
+            "traduction": "se dresser, se mettre debout ; commencer"
+        },
+        {
+            "simplifie": "清楚",
+            "traditionnel": "清楚",
+            "pinyin": "qīngchu",
+            "categorie": "adj. / v.",
+            "traduction": "clair, distinct, intelligible, clairement ; comprendre, être au courant, bien savoir"
+        },
+        {
+            "simplifie": "秋",
+            "traditionnel": "秋",
+            "pinyin": "qiū",
+            "categorie": "n.",
+            "traduction": "automne"
+        },
+        {
+            "simplifie": "裙子",
+            "traditionnel": "裙子",
+            "pinyin": "qúnzi",
+            "categorie": "n.",
+            "traduction": "robe, jupe 条"
+        },
+        {
+            "simplifie": "然后",
+            "traditionnel": "然後",
+            "pinyin": "ránhòu",
+            "categorie": "conj.",
+            "traduction": "puis, ensuite"
+        },
+        {
+            "simplifie": "热情",
+            "traditionnel": "熱情",
+            "pinyin": "rèqíng",
+            "categorie": "adj.",
+            "traduction": "chaleureux, enthousiaste, avec enthousiasme"
+        },
+        {
+            "simplifie": "认为",
+            "traditionnel": "認為",
+            "pinyin": "rènwéi",
+            "categorie": "v.",
+            "traduction": "penser (que)"
+        },
+        {
+            "simplifie": "认真",
+            "traditionnel": "認真",
+            "pinyin": "rènzhēn",
+            "categorie": "adj.",
+            "traduction": "sérieux, consciencieux"
+        },
+        {
+            "simplifie": "容易",
+            "traditionnel": "容易",
+            "pinyin": "róngyì",
+            "categorie": "adj.",
+            "traduction": "facile, facilement"
+        },
+        {
+            "simplifie": "如果",
+            "traditionnel": "如果",
+            "pinyin": "rúguǒ",
+            "categorie": "conj.",
+            "traduction": "si"
+        },
+        {
+            "simplifie": "伞",
+            "traditionnel": "傘",
+            "pinyin": "sǎn",
+            "categorie": "n.",
+            "traduction": "parapluie, parasol 把"
+        },
+        {
+            "simplifie": "声音",
+            "traditionnel": "聲音",
+            "pinyin": "shēngyīn",
+            "categorie": "n.",
+            "traduction": "son, voix, bruit"
+        },
+        {
+            "simplifie": "世界",
+            "traditionnel": "世界",
+            "pinyin": "shìjiè",
+            "categorie": "n.",
+            "traduction": "monde 个"
+        },
+        {
+            "simplifie": "试",
+            "traditionnel": "試",
+            "pinyin": "shì",
+            "categorie": "v.",
+            "traduction": "essayer ; test, examen"
+        },
+        {
+            "simplifie": "瘦",
+            "traditionnel": "瘦",
+            "pinyin": "shòu",
+            "categorie": "adj.",
+            "traduction": "maigre, mince"
+        },
+        {
+            "simplifie": "叔叔",
+            "traditionnel": "叔叔",
+            "pinyin": "shūshu",
+            "categorie": "n.",
+            "traduction": "oncle (frère cadet du père) 个 ;"
+        },
+        {
+            "simplifie": "舒服",
+            "traditionnel": "舒服",
+            "pinyin": "shūfu",
+            "categorie": "adj.",
+            "traduction": "confortable"
+        },
+        {
+            "simplifie": "树",
+            "traditionnel": "樹",
+            "pinyin": "shù",
+            "categorie": "n.",
+            "traduction": "arbre 棵"
+        },
+        {
+            "simplifie": "数学",
+            "traditionnel": "數學",
+            "pinyin": "shùxué",
+            "categorie": "n.",
+            "traduction": "mathématiques"
+        },
+        {
+            "simplifie": "双",
+            "traditionnel": "雙",
+            "pinyin": "shuāng",
+            "categorie": "n.",
+            "traduction": "une paire de"
+        },
+        {
+            "simplifie": "水平",
+            "traditionnel": "水平",
+            "pinyin": "shuǐpíng",
+            "categorie": "n.",
+            "traduction": "niveau 个"
+        },
+        {
+            "simplifie": "司机",
+            "traditionnel": "司機",
+            "pinyin": "sījī",
+            "categorie": "n.",
+            "traduction": "chauffeur 个"
+        },
+        {
+            "simplifie": "太阳",
+            "traditionnel": "太陽",
+            "pinyin": "tàiyáng",
+            "categorie": "n.",
+            "traduction": "soleil 个"
+        },
+        {
+            "simplifie": "特别",
+            "traditionnel": "特別",
+            "pinyin": "tèbié",
+            "categorie": "adj.",
+            "traduction": "particulier, spécial, particulièrement"
+        },
+        {
+            "simplifie": "疼",
+            "traditionnel": "疼",
+            "pinyin": "téng",
+            "categorie": "v.",
+            "traduction": "avoir mal, souffrir"
+        },
+        {
+            "simplifie": "提高",
+            "traditionnel": "提高",
+            "pinyin": "tígāo",
+            "categorie": "v.",
+            "traduction": "élever, hausser"
+        },
+        {
+            "simplifie": "体育",
+            "traditionnel": "體育",
+            "pinyin": "tǐyù",
+            "categorie": "n.",
+            "traduction": "éducation physique, sport"
+        },
+        {
+            "simplifie": "甜",
+            "traditionnel": "甜",
+            "pinyin": "tián",
+            "categorie": "adj.",
+            "traduction": "sucré, doux"
+        },
+        {
+            "simplifie": "同事",
+            "traditionnel": "同事",
+            "pinyin": "tóngshì",
+            "categorie": "n.",
+            "traduction": "collègue 个"
+        },
+        {
+            "simplifie": "同意",
+            "traditionnel": "同意",
+            "pinyin": "tóngyì",
+            "categorie": "v.",
+            "traduction": "être d’accord, accepter"
+        },
+        {
+            "simplifie": "头发",
+            "traditionnel": "頭髮",
+            "pinyin": "tóufa",
+            "categorie": "n.",
+            "traduction": "cheveu, chevelure 根"
+        },
+        {
+            "simplifie": "突然",
+            "traditionnel": "突然",
+            "pinyin": "tūrán",
+            "categorie": "adj.",
+            "traduction": "soudain, subitement"
+        },
+        {
+            "simplifie": "图书馆",
+            "traditionnel": "圖書館",
+            "pinyin": "túshūguǎn",
+            "categorie": "n.",
+            "traduction": "bibliothèque 个"
+        },
+        {
+            "simplifie": "腿",
+            "traditionnel": "腿",
+            "pinyin": "tuǐ",
+            "categorie": "n.",
+            "traduction": "jambe 条"
+        },
+        {
+            "simplifie": "完成",
+            "traditionnel": "完成",
+            "pinyin": "wánchéng",
+            "categorie": "v.",
+            "traduction": "accomplir, mener à bien"
+        },
+        {
+            "simplifie": "碗",
+            "traditionnel": "碗",
+            "pinyin": "wǎn",
+            "categorie": "n.",
+            "traduction": "bol 个，只"
+        },
+        {
+            "simplifie": "万",
+            "traditionnel": "萬",
+            "pinyin": "wàn",
+            "categorie": "num.",
+            "traduction": "dix mille"
+        },
+        {
+            "simplifie": "忘记",
+            "traditionnel": "忘記",
+            "pinyin": "wàngjì",
+            "categorie": "v.",
+            "traduction": "oublier"
+        },
+        {
+            "simplifie": "文化",
+            "traditionnel": "文化",
+            "pinyin": "wénhuà",
+            "categorie": "n.",
+            "traduction": "culture 种"
+        },
+        {
+            "simplifie": "西",
+            "traditionnel": "西",
+            "pinyin": "xī",
+            "categorie": "loc.",
+            "traduction": "ouest"
+        },
+        {
+            "simplifie": "习惯",
+            "traditionnel": "習慣",
+            "pinyin": "xíguàn",
+            "categorie": "n. / v.",
+            "traduction": "habitude 个, s’habituer à"
+        },
+        {
+            "simplifie": "洗手间",
+            "traditionnel": "洗手間",
+            "pinyin": "xǐshǒujiān",
+            "categorie": "n.",
+            "traduction": "toilettes 个"
+        },
+        {
+            "simplifie": "夏",
+            "traditionnel": "夏",
+            "pinyin": "xià",
+            "categorie": "n.",
+            "traduction": "été"
+        },
+        {
+            "simplifie": "先",
+            "traditionnel": "先",
+            "pinyin": "xiān",
+            "categorie": "adv.",
+            "traduction": "d’abord, en premier"
+        },
+        {
+            "simplifie": "相信",
+            "traditionnel": "相信",
+            "pinyin": "xiāngxìn",
+            "categorie": "v.",
+            "traduction": "croire, avoir confiance en"
+        },
+        {
+            "simplifie": "香蕉",
+            "traditionnel": "香蕉",
+            "pinyin": "xiāngjiāo",
+            "categorie": "n.",
+            "traduction": "banane 根, 条"
+        },
+        {
+            "simplifie": "像",
+            "traditionnel": "像",
+            "pinyin": "xiàng",
+            "categorie": "v. /",
+            "traduction": "ressembler, comme ; image, portrait"
+        },
+        {
+            "simplifie": "小心",
+            "traditionnel": "小心",
+            "pinyin": "xiǎoxīn",
+            "categorie": "adj.",
+            "traduction": "faire attention, prudent,"
+        },
+        {
+            "simplifie": "校长",
+            "traditionnel": "校長",
+            "pinyin": "xiàozhǎng",
+            "categorie": "n.",
+            "traduction": "directeur d’école 个"
+        },
+        {
+            "simplifie": "新闻",
+            "traditionnel": "新聞",
+            "pinyin": "xīnwén",
+            "categorie": "n.",
+            "traduction": "nouvelle, information 个, 条"
+        },
+        {
+            "simplifie": "新鲜",
+            "traditionnel": "新鮮",
+            "pinyin": "xīnxiān",
+            "categorie": "adj.",
+            "traduction": "frais, nouveau, récent"
+        },
+        {
+            "simplifie": "信用卡",
+            "traditionnel": "信用卡",
+            "pinyin": "xìnyòngkǎ",
+            "categorie": "n.",
+            "traduction": "carte de crédit 张"
+        },
+        {
+            "simplifie": "行李箱",
+            "traditionnel": "行李箱",
+            "pinyin": "xínglǐxiāng",
+            "categorie": "n.",
+            "traduction": "valise 个"
+        },
+        {
+            "simplifie": "熊猫",
+            "traditionnel": "熊貓",
+            "pinyin": "xióngmāo",
+            "categorie": "n.",
+            "traduction": "panda 只"
+        },
+        {
+            "simplifie": "需要",
+            "traditionnel": "需要",
+            "pinyin": "xūyào",
+            "categorie": "v. mod. / n.",
+            "traduction": "avoir besoin de, besoin 个"
+        },
+        {
+            "simplifie": "选择",
+            "traditionnel": "選擇",
+            "pinyin": "xuǎnzé",
+            "categorie": "v. / n.",
+            "traduction": "choisir, choix 个"
+        },
+        {
+            "simplifie": "要求",
+            "traditionnel": "要求",
+            "pinyin": "yāoqiú",
+            "categorie": "v. / n.",
+            "traduction": "demander, exiger, demande 个"
+        },
+        {
+            "simplifie": "爷爷",
+            "traditionnel": "爺爺",
+            "pinyin": "yéye",
+            "categorie": "n.",
+            "traduction": "grand-père (paternel) 个"
+        },
+        {
+            "simplifie": "一般",
+            "traditionnel": "一般",
+            "pinyin": "yìbān",
+            "categorie": "adj.",
+            "traduction": "général, ordinaire, généralement"
+        },
+        {
+            "simplifie": "一边",
+            "traditionnel": "一邊",
+            "pinyin": "yìbiān",
+            "categorie": "conj.",
+            "traduction": "d’un côté… et de l’autre…"
+        },
+        {
+            "simplifie": "一定",
+            "traditionnel": "一定",
+            "pinyin": "yídìng",
+            "categorie": "adj.",
+            "traduction": "sûr, déterminé, certainement"
+        },
+        {
+            "simplifie": "一共",
+            "traditionnel": "一共",
+            "pinyin": "yígòng",
+            "categorie": "adv.",
+            "traduction": "en tout, au total"
+        },
+        {
+            "simplifie": "一会儿",
+            "traditionnel": "一會兒",
+            "pinyin": "yíhuìr",
+            "categorie": "n.",
+            "traduction": "un moment, un instant ; tout à l'heure"
+        },
+        {
+            "simplifie": "一样",
+            "traditionnel": "一樣",
+            "pinyin": "yíyàng",
+            "categorie": "adj.",
+            "traduction": "pareil, semblable, pareillement"
+        },
+        {
+            "simplifie": "一直",
+            "traditionnel": "一直",
+            "pinyin": "yìzhí",
+            "categorie": "adv.",
+            "traduction": "tout droit ; depuis toujours, sans interruption"
+        },
+        {
+            "simplifie": "以前",
+            "traditionnel": "以前",
+            "pinyin": "yǐqián",
+            "categorie": "n.",
+            "traduction": "avant que, auparavant"
+        },
+        {
+            "simplifie": "音乐",
+            "traditionnel": "音樂",
+            "pinyin": "yīnyuè",
+            "categorie": "n.",
+            "traduction": "musique 种"
+        },
+        {
+            "simplifie": "银行",
+            "traditionnel": "銀行",
+            "pinyin": "yínháng",
+            "categorie": "n.",
+            "traduction": "banque 个, 家"
+        },
+        {
+            "simplifie": "饮料",
+            "traditionnel": "飲料",
+            "pinyin": "yǐnliào",
+            "categorie": "n.",
+            "traduction": "boisson"
+        },
+        {
+            "simplifie": "应该",
+            "traditionnel": "應該",
+            "pinyin": "yīnggāi",
+            "categorie": "v. mod.",
+            "traduction": "devoir, falloir"
+        },
+        {
+            "simplifie": "影响",
+            "traditionnel": "影響",
+            "pinyin": "yǐngxiǎng",
+            "categorie": "v. / n.",
+            "traduction": "influencer, influence, mauvaise influence 个"
+        },
+        {
+            "simplifie": "用",
+            "traditionnel": "用",
+            "pinyin": "yòng",
+            "categorie": "v.",
+            "traduction": "employer, utiliser ; au moyen de, avec"
+        },
+        {
+            "simplifie": "游戏",
+            "traditionnel": "游戲",
+            "pinyin": "yóuxì",
+            "categorie": "n.",
+            "traduction": "jeu 个"
+        },
+        {
+            "simplifie": "有名",
+            "traditionnel": "有名",
+            "pinyin": "yǒumíng",
+            "categorie": "adj.",
+            "traduction": "célèbre, connu"
+        },
+        {
+            "simplifie": "又",
+            "traditionnel": "又",
+            "pinyin": "yòu",
+            "categorie": "adv.",
+            "traduction": "de nouveau, encore une fois"
+        },
+        {
+            "simplifie": "遇到",
+            "traditionnel": "遇到",
+            "pinyin": "yùdào",
+            "categorie": "v.",
+            "traduction": "rencontrer, tomber sur"
+        },
+        {
+            "simplifie": "元",
+            "traditionnel": "元",
+            "pinyin": "yuán",
+            "categorie": "n.",
+            "traduction": "yuan, dollar"
+        },
+        {
+            "simplifie": "愿意",
+            "traditionnel": "願意",
+            "pinyin": "yuànyì",
+            "categorie": "v. mod.",
+            "traduction": "vouloir, être d’accord"
+        },
+        {
+            "simplifie": "月亮",
+            "traditionnel": "月亮",
+            "pinyin": "yuèliang",
+            "categorie": "n.",
+            "traduction": "lune 个"
+        },
+        {
+            "simplifie": "越",
+            "traditionnel": "越",
+            "pinyin": "yuè",
+            "categorie": "adv.",
+            "traduction": "plus"
+        },
+        {
+            "simplifie": "站",
+            "traditionnel": "站",
+            "pinyin": "zhàn",
+            "categorie": "v. / n.",
+            "traduction": "se mettre debout, se tenir debout ;"
+        },
+        {
+            "simplifie": "长",
+            "traditionnel": "長",
+            "pinyin": "zhǎng",
+            "categorie": "v.",
+            "traduction": "croître, grandir"
+        },
+        {
+            "simplifie": "着急",
+            "traditionnel": "著急",
+            "pinyin": "zháojí",
+            "categorie": "adj.",
+            "traduction": "s’inquiéter de, s’énerver, pressé, avec inquiétude"
+        },
+        {
+            "simplifie": "照顾",
+            "traditionnel": "照顧",
+            "pinyin": "zhàogù",
+            "categorie": "v.",
+            "traduction": "accorder des soins particuliers à, s’occuper de (enfants, malades)"
+        },
+        {
+            "simplifie": "照片",
+            "traditionnel": "照片",
+            "pinyin": "zhàopiàn",
+            "categorie": "n.",
+            "traduction": "photo 张"
+        },
+        {
+            "simplifie": "照相机",
+            "traditionnel": "照相機",
+            "pinyin": "zhàoxiàngjī",
+            "categorie": "n.",
+            "traduction": "appareil photo 个"
+        },
+        {
+            "simplifie": "只",
+            "traditionnel": "只",
+            "pinyin": "zhǐ",
+            "categorie": "adv.",
+            "traduction": "seulement"
+        },
+        {
+            "simplifie": "中间",
+            "traditionnel": "中間",
+            "pinyin": "zhōngjiān",
+            "categorie": "l.",
+            "traduction": "milieu, entre, au milieu de"
+        },
+        {
+            "simplifie": "中文",
+            "traditionnel": "中文",
+            "pinyin": "zhōngwén",
+            "categorie": "n.",
+            "traduction": "langue chinoise"
+        },
+        {
+            "simplifie": "终于",
+            "traditionnel": "終於",
+            "pinyin": "zhōngyú",
+            "categorie": "adv.",
+            "traduction": "enfin, finalement"
+        },
+        {
+            "simplifie": "种",
+            "traditionnel": "種",
+            "pinyin": "zhǒng",
+            "categorie": "n.",
+            "traduction": "type, sorte ; une sorte de"
+        },
+        {
+            "simplifie": "重要",
+            "traditionnel": "重要",
+            "pinyin": "zhòngyào",
+            "categorie": "adj.",
+            "traduction": "important"
+        },
+        {
+            "simplifie": "周末",
+            "traditionnel": "周末",
+            "pinyin": "zhōumò",
+            "categorie": "n.",
+            "traduction": "week-end 个"
+        },
+        {
+            "simplifie": "主要",
+            "traditionnel": "主要",
+            "pinyin": "zhǔyào",
+            "categorie": "adj. non",
+            "traduction": "principal, essentiel, principalement"
+        },
+        {
+            "simplifie": "注意",
+            "traditionnel": "注意",
+            "pinyin": "zhùyì",
+            "categorie": "v.",
+            "traduction": "faire attention à"
+        },
+        {
+            "simplifie": "自己",
+            "traditionnel": "自己",
+            "pinyin": "zìjǐ",
+            "categorie": "pron. / adj.",
+            "traduction": "soi, soi-même ; propre, appartenant à"
+        },
+        {
+            "simplifie": "自行车",
+            "traditionnel": "自行車",
+            "pinyin": "zìxíngchē",
+            "categorie": "n.",
+            "traduction": "bicyclette, vélo 辆"
+        },
+        {
+            "simplifie": "总是",
+            "traditionnel": "總是",
+            "pinyin": "zǒngshì",
+            "categorie": "adv.",
+            "traduction": "toujours"
+        },
+        {
+            "simplifie": "嘴",
+            "traditionnel": "嘴",
+            "pinyin": "zuǐ",
+            "categorie": "n.",
+            "traduction": "bouche, bec 张"
+        },
+        {
+            "simplifie": "最后",
+            "traditionnel": "最後",
+            "pinyin": "zuìhòu",
+            "categorie": "n.",
+            "traduction": "le dernier, final, à la fin"
+        },
+        {
+            "simplifie": "最近",
+            "traditionnel": "最近",
+            "pinyin": "zuìjìn",
+            "categorie": "n.",
+            "traduction": "ces jours-ci, récemment, dernièrement"
+        },
+        {
+            "simplifie": "作业",
+            "traditionnel": "作業",
+            "pinyin": "zuòyè",
+            "categorie": "n.",
+            "traduction": "devoirs (à domicile) 个"
+        },
+        {
+            "simplifie": "办",
+            "traditionnel": "",
+            "pinyin": "bàn",
+            "categorie": "v.",
+            "traduction": "faire, traiter"
+        },
+        {
+            "simplifie": "北",
+            "traditionnel": "",
+            "pinyin": "běi",
+            "categorie": "n.",
+            "traduction": "nord"
+        },
+        {
+            "simplifie": "边",
+            "traditionnel": "",
+            "pinyin": "biān",
+            "categorie": "n.",
+            "traduction": "bord"
+        },
+        {
+            "simplifie": "变",
+            "traditionnel": "",
+            "pinyin": "biàn",
+            "categorie": "v.",
+            "traduction": "changer"
+        },
+        {
+            "simplifie": "查",
+            "traditionnel": "",
+            "pinyin": "chá",
+            "categorie": "v.",
+            "traduction": "examiner, vérifier, chercher (dans un dictionnaire)"
+        },
+        {
+            "simplifie": "常",
+            "traditionnel": "",
+            "pinyin": "cháng",
+            "categorie": "adv.",
+            "traduction": "souvent, fréquemment"
+        },
+        {
+            "simplifie": "词",
+            "traditionnel": "",
+            "pinyin": "cí",
+            "categorie": "n.",
+            "traduction": "dictionnaire (des mots)"
+        },
+        {
+            "simplifie": "答",
+            "traditionnel": "",
+            "pinyin": "dá",
+            "categorie": "v.",
+            "traduction": "répondre"
+        },
+        {
+            "simplifie": "电子",
+            "traditionnel": "",
+            "pinyin": "diànzǐ",
+            "categorie": "n.",
+            "traduction": "électronique"
+        },
+        {
+            "simplifie": "风",
+            "traditionnel": "",
+            "pinyin": "fēng",
+            "categorie": "n.",
+            "traduction": "vent ; style, ambiance"
+        },
+        {
+            "simplifie": "该",
+            "traditionnel": "",
+            "pinyin": "gāi",
+            "categorie": "v.mod.",
+            "traduction": "devoir"
+        },
+        {
+            "simplifie": "刮",
+            "traditionnel": "",
+            "pinyin": "guā",
+            "categorie": "v.",
+            "traduction": "raser, racler ; souffler (vent)"
+        },
+        {
+            "simplifie": "河",
+            "traditionnel": "",
+            "pinyin": "hé",
+            "categorie": "n.",
+            "traduction": "fleuve"
+        },
+        {
+            "simplifie": "黄",
+            "traditionnel": "",
+            "pinyin": "huáng",
+            "categorie": "adj.non",
+            "traduction": "jaune"
+        },
+        {
+            "simplifie": "会儿",
+            "traditionnel": "",
+            "pinyin": "huìr",
+            "categorie": "n.",
+            "traduction": "moment, instant"
+        },
+        {
+            "simplifie": "或",
+            "traditionnel": "",
+            "pinyin": "huò",
+            "categorie": "conj.",
+            "traduction": "ou, ou bien"
+        },
+        {
+            "simplifie": "急",
+            "traditionnel": "",
+            "pinyin": "jí",
+            "categorie": "adj.",
+            "traduction": "pressé, urgent"
+        },
+        {
+            "simplifie": "记",
+            "traditionnel": "",
+            "pinyin": "jì",
+            "categorie": "v.",
+            "traduction": "noter, se rappeler, se souvenir"
+        },
+        {
+            "simplifie": "街",
+            "traditionnel": "",
+            "pinyin": "jiē",
+            "categorie": "n.",
+            "traduction": "rue, avenue ; quartier"
+        },
+        {
+            "simplifie": "节",
+            "traditionnel": "",
+            "pinyin": "jié",
+            "categorie": "n.",
+            "traduction": "fête, festival"
+        },
+        {
+            "simplifie": "斤",
+            "traditionnel": "",
+            "pinyin": "jīn",
+            "categorie": "n.",
+            "traduction": "une livre (500 grammes)"
+        },
+        {
+            "simplifie": "酒",
+            "traditionnel": "",
+            "pinyin": "jiǔ",
+            "categorie": "n.",
+            "traduction": "alcool, vin"
+        },
+        {
+            "simplifie": "句",
+            "traditionnel": "",
+            "pinyin": "jù",
+            "categorie": "n.",
+            "traduction": "phrase"
+        },
+        {
+            "simplifie": "爬",
+            "traditionnel": "",
+            "pinyin": "pá",
+            "categorie": "v.",
+            "traduction": "grimper, ramper"
+        },
+        {
+            "simplifie": "怕",
+            "traditionnel": "",
+            "pinyin": "pà",
+            "categorie": "v.",
+            "traduction": "avoir peur de"
+        },
+        {
+            "simplifie": "瓶",
+            "traditionnel": "",
+            "pinyin": "píng",
+            "categorie": "n.",
+            "traduction": "bouteille, vase"
+        },
+        {
+            "simplifie": "山",
+            "traditionnel": "",
+            "pinyin": "shān",
+            "categorie": "n.",
+            "traduction": "montagne"
+        },
+        {
+            "simplifie": "市",
+            "traditionnel": "",
+            "pinyin": "shì",
+            "categorie": "n.",
+            "traduction": "ville"
+        },
+        {
+            "simplifie": "刷",
+            "traditionnel": "",
+            "pinyin": "shuā",
+            "categorie": "v./n.",
+            "traduction": "brosser, brosse ; essuyer"
+        },
+        {
+            "simplifie": "头",
+            "traditionnel": "",
+            "pinyin": "tóu",
+            "categorie": "n.",
+            "traduction": "tête ; chef ; extrêmité"
+        },
+        {
+            "simplifie": "网",
+            "traditionnel": "",
+            "pinyin": "wǎng",
+            "categorie": "n.",
+            "traduction": "filet ; Internet"
+        },
+        {
+            "simplifie": "忘",
+            "traditionnel": "",
+            "pinyin": "wàng",
+            "categorie": "v.",
+            "traduction": "oublier"
+        },
+        {
+            "simplifie": "相机",
+            "traditionnel": "",
+            "pinyin": "xiàngjī",
+            "categorie": "n.",
+            "traduction": "appareil de photo"
+        },
+        {
+            "simplifie": "鞋",
+            "traditionnel": "",
+            "pinyin": "xié",
+            "categorie": "n.",
+            "traduction": "chaussure"
+        },
+        {
+            "simplifie": "心",
+            "traditionnel": "",
+            "pinyin": "xīn",
+            "categorie": "n.",
+            "traduction": "cœur"
+        },
+        {
+            "simplifie": "行李",
+            "traditionnel": "",
+            "pinyin": "xíngli",
+            "categorie": "n.",
+            "traduction": "bagage"
+        },
+        {
+            "simplifie": "兴趣",
+            "traditionnel": "",
+            "pinyin": "xìngqù",
+            "categorie": "n.",
+            "traduction": "intérêt"
+        },
+        {
+            "simplifie": "选",
+            "traditionnel": "",
+            "pinyin": "xuǎn",
+            "categorie": "v.",
+            "traduction": "choisir, sélectionner"
+        },
+        {
+            "simplifie": "牙",
+            "traditionnel": "",
+            "pinyin": "yá",
+            "categorie": "n.",
+            "traduction": "dent"
+        },
+        {
+            "simplifie": "应",
+            "traditionnel": "",
+            "pinyin": "yīng",
+            "categorie": "v.mod.",
+            "traduction": "devoir"
+        },
+        {
+            "simplifie": "邮件",
+            "traditionnel": "",
+            "pinyin": "yóujiàn",
+            "categorie": "n.",
+            "traduction": "courrier, envoi postal"
+        },
+        {
+            "simplifie": "遇",
+            "traditionnel": "",
+            "pinyin": "yù",
+            "categorie": "v.",
+            "traduction": "rencontrer, tomber sur qqn"
+        },
+        {
+            "simplifie": "周",
+            "traditionnel": "",
+            "pinyin": "zhōu",
+            "categorie": "n.",
+            "traduction": "tour, circuit ; semaine"
+        },
+        {
+            "simplifie": "总",
+            "traditionnel": "",
+            "pinyin": "zǒng",
+            "categorie": "adv.",
+            "traduction": "toujours"
+        },
+        {
+            "simplifie": "河南",
+            "traditionnel": "",
+            "pinyin": "Hénán",
+            "categorie": "nom de lieu",
+            "traduction": "Henan (province)"
+        },
+        {
+            "simplifie": "花城",
+            "traditionnel": "",
+            "pinyin": "Huāchéng",
+            "categorie": "nom de lieu",
+            "traduction": "Ville des fleurs (Guangzhou)"
+        },
+        {
+            "simplifie": "南京",
+            "traditionnel": "",
+            "pinyin": "Nánjīng",
+            "categorie": "nom de lieu",
+            "traduction": "Nankin"
+        },
+        {
+            "simplifie": "山西",
+            "traditionnel": "",
+            "pinyin": "Shānxī",
+            "categorie": "nom de lieu",
+            "traduction": "Shanxi (province)"
+        },
+        {
+            "simplifie": "甜甜",
+            "traditionnel": "",
+            "pinyin": "Tiántian",
+            "categorie": "nom de personne",
+            "traduction": "Tiantian"
+        }
+    ]
+}
